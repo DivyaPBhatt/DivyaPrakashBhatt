@@ -1,0 +1,42 @@
+body { background-image: url('./hand-painted-watercolor-pastel-sky-background_23-2148902771.avif');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+
+
+
+}
+
+
+
+
+h1 {color: red;}
+h1 {text-align: center;}
+h1 { background-color: aqua;
+border-radius: 20px;
+font-size: 3rem; }
+h2 { border-radius: 10px;
+text-align: center;}
+img {
+ height: 400px;
+ width: 400px;
+ border-radius: 25px;
+border: solid;  }
+ h2 { color: black;
+background-color: white;}
+.Nigga1 {color: red;
+background-color: black;}
+video { height: 500px;
+width: 1000px; }
+.Nigga3 { color: brown;
+background-color: black;
+border-radius: 25px;}
+.nigga4 { border-radius: 25px;
+color: red;
+}
+
+p {background-color: aqua;
+color: black;
+border-radius: 15px;
+font-size: 2rem;}
